@@ -11,7 +11,8 @@ The aim of the project is to successfully build an expense tracker, a script or 
 Techincal Tools and Skills:
 Pandas, Matplotlib / Plotly.
 
-I am already in the habit of planning my monthly budget. What I need is bank statements from previous months and add that into a csv or spreadsheet.
+Loading the project:
+If you would like to view the project notebook, navigate to ProjectFiles and download the csv files and the ipynb file. From there you are good to go. Enjoy :-)
 
 The first iteration of this project has been completed on 04 August 2025. Improvements have been suggested and I'm awaiting feedback from my mentor to find any other improvements.
 

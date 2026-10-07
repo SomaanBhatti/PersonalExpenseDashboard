@@ -16,6 +16,5 @@ If you would like to view the project notebook, navigate to ProjectFiles and dow
 
 
 ## Finally
-The first iteration of this project has been completed on 04 August 2025. Improvements have been suggested and I'm awaiting feedback from my mentor to find any other improvements.
 
 I really enjoyed creating this project as it tested my understanding of pandas dataframes and the use of matplotlib. I also understood the value of conciseness and during development, I ended up having too many graphs and charts which didn't really give extra value. Understanding this flaw and reducing the clutter creates value and makes it easier to view the information.
